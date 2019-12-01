@@ -55,13 +55,13 @@ aside::before {
   color: #9779ec;
 }
 
-h1 {
+h2 {
   font-size: 18px;
   background-color: #ffffff;
   border: 2px solid #ff994f;
 }
 
-h1::before {
+h2::before {
   content: "h1";
   color: #ff994f;
 }
